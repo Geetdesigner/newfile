@@ -1,0 +1,16 @@
+p{
+    color: blueviolet;
+    background-color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+
+}
+div{
+    color: coral;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 10px;
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: 100;
+}
